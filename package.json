@@ -1,7 +1,7 @@
 {
   "name": "tfk-seneca-skoleskyss-stats-dispatcher",
-  "version": "1.0.0",
-  "description": "Microservice for live counter",
+  "version": "1.0.1",
+  "description": "Microservice for sending stats from skoleskyss",
   "license": "MIT",
   "author": {
     "name": "Geir Gåsodden",
