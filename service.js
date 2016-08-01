@@ -12,8 +12,8 @@ const options = {
   mesh: {
     auto: true,
     listen: [
-      {pin: 'role:info, info:skoleskyss', model: 'consume'},
-      {pin: 'role:info, info:skoleskyss, type:status', model: 'consume'}
+      {pin: 'role:info, info:skoleskyss', model: 'observe'},
+      {pin: 'role:info, info:skoleskyss, type:status', model: 'observe'}
     ]
   },
   statsOptions: {
