@@ -1,6 +1,6 @@
 {
   "name": "tfk-seneca-skoleskyss-stats-dispatcher",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "Microservice for sending stats from skoleskyss",
   "license": "MIT",
   "author": {
@@ -35,6 +35,7 @@
     "tap": "6.3.0"
   },
   "dependencies": {
+    "device": "0.3.8",
     "seneca": "2.1.0",
     "seneca-balance-client": "0.5.0",
     "seneca-mesh": "0.8.0"
