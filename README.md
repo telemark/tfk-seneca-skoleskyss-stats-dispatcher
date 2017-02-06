@@ -1,4 +1,6 @@
 # tfk-seneca-skoleskyss-stats-dispatcher
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-seneca-skoleskyss-stats-dispatcher.svg)](https://greenkeeper.io/)
 Microservice for sending stats from skoleskyss
 
 ## Example
